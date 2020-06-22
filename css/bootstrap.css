@@ -9040,9 +9040,6 @@ button.bg-dark:hover {
     text-align: left !important
 }
 
-.text-right {
-    text-align: right !important
-}
 
 .text-center {
     text-align: center !important
@@ -9051,9 +9048,6 @@ button.bg-dark:hover {
 @media (min-width:576px) {
     .text-sm-left {
         text-align: left !important
-    }
-    .text-sm-right {
-        text-align: right !important
     }
     .text-sm-center {
         text-align: center !important
