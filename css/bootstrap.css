@@ -3158,6 +3158,15 @@ input[type=submit].btn-block {
     }
 }
 
+.div.confirmed case{
+	padding:1rem;
+    margin:1rem}
+
+.div.death toll{
+	padding:1rem;
+    margin:1rem}
+
+
 .dropdown,
 .dropleft,
 .dropright,
